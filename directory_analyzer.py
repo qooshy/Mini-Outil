@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Script d'automatisation et d'analyse de répertoires sous Linux
 Auteur: Admin Système

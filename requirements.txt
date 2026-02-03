@@ -1,0 +1,37 @@
+# Requirements pour le projet Mini-Projet d'Administration Système Linux
+#
+# Ce projet utilise uniquement les modules standards de Python 3.6+
+# Aucune installation de dépendances externes n'est nécessaire.
+#
+# Modules utilisés (tous inclus dans Python 3.6+):
+# - os: Opérations système
+# - sys: Interface système
+# - argparse: Parsing des arguments en ligne de commande
+# - pathlib: Manipulation des chemins de fichiers
+# - datetime: Gestion des dates et horodatage
+#
+# Pour vérifier que Python est installé:
+# python3 --version
+#
+# Version minimale requise: Python 3.6
+#
+# Installation de Python sur les systèmes courants:
+#
+# Ubuntu/Debian:
+#   sudo apt update
+#   sudo apt install python3 python3-pip
+#
+# CentOS/RHEL:
+#   sudo yum install python3 python3-pip
+#
+# Arch Linux:
+#   sudo pacman -S python python-pip
+#
+# macOS (avec Homebrew):
+#   brew install python3
+#
+# Windows (WSL):
+#   Déjà inclus dans WSL ou:
+#   sudo apt install python3
+
+# Aucune dépendance externe requise
